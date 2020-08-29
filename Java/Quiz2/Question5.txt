@@ -1,0 +1,5 @@
+
+Question 5:The method of calling garbage collector is what and is under which
+class?
+
+Ans- gc() of System class
